@@ -25,7 +25,9 @@ print(y)
 text='Hei'
 print(text)
 text="Hei"
+
 print(text)
+
 
 ## triple-dobbelfnutter. Denne er mer "special". Den kan skrives over flere linjer
 enLitenTekst = """19. august 2024
@@ -33,3 +35,8 @@ Jeg har det fint!
 
 Hilsen Dag Olav"""
 print(enLitenTekst)
+
+
+import math  # Standard matte-ting
+print(math.pi)
+print(math.sin(math.pi/2))
