@@ -1,0 +1,7 @@
+Svar for Oppgave 4, fra A til E: 
+
+Oppgave 4-A. Hvor mange gensere er solgt i totalt?   Svar: 56
+Oppgave 4-B. Hva er den totale inntekten fra salget av gensere?   Svar: 22344 kr
+Oppgave 4-C. Hvor mange kunder kjøpte varer i størrelsen 'XL'?   Svar: 5
+Oppgave 4-D. Hvor mange kunder har kjøpt mer enn 3 varer?   Svar: 6
+Oppgave 4-E. Hvilken farge har flest solgte varer?   Svar: Blå med 13 solgte varer
