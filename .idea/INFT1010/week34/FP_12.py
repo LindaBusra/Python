@@ -1,0 +1,2 @@
+# Lister og numpy.array
+
